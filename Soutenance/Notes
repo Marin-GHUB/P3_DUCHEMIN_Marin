@@ -1,0 +1,8 @@
+OFF geree par une association a but non lucratif de 3 personnes.
+construite par plusieurs dizaines de milliers de volontaires. (benevoles?)
+
+mise a jour toutes les semaines
+
+mongoDB -> travailler en base de donnees plutot que RAM
+NoSQL pour volumetrie et les donnees non structurees (produits avec des informations differentes gerees, ne prends pas de place si pas d'info pour le produit)
+base de donnees type document adaptee aux produits
